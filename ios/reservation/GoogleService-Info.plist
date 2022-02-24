@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>213420926167-83qi0bo19ocm25pb5urtcmvi58v06l5o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.213420926167-83qi0bo19ocm25pb5urtcmvi58v06l5o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>213420926167-f67jq0e874tlpmivndpnjgefm54cuj0b.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-E6wgkAg0bRV47MfPDx2bY8nqDOMY0zE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>213420926167</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bethelspa</string>
+	<key>PROJECT_ID</key>
+	<string>bethelspa-5ef5f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bethelspa-5ef5f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:213420926167:ios:50a7e7bc851ff0f567bc92</string>
+	<key>DATABASE_URL</key>
+	<string>https://bethelspa-5ef5f.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "213420926167",
+    "firebase_url": "https://bethelspa-5ef5f.firebaseio.com",
+    "project_id": "bethelspa-5ef5f",
+    "storage_bucket": "bethelspa-5ef5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213420926167:android:e7b8afa7d4276e2e67bc92",
+        "android_client_info": {
+          "package_name": "com.reservation.bethelspa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213420926167-k2jlajss31g9q8n5uone2padanf9260c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reservation.bethelspa",
+            "certificate_hash": "99f5dc4428062bdd7bf72e325f6cb6b9355d0343"
+          }
+        },
+        {
+          "client_id": "213420926167-5rrfivprtp8a4cdrkp1opuq4upvctqo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XbSlVV8Buy8s7371_1vuqT05WdUI940"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213420926167-5rrfivprtp8a4cdrkp1opuq4upvctqo4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213420926167-83qi0bo19ocm25pb5urtcmvi58v06l5o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bethelspa",
+                "app_store_id": "1527516558"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
